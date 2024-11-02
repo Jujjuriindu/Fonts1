@@ -1,0 +1,142 @@
+#mainHeading {
+  background-color: green;
+  color: black;
+  border-radius: 20px;
+  text-align: center;
+  box-shadow: 10px 10px 10px black;
+  font-size: 5rem;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+#judge {
+  background-color: bisque;
+  color: black;
+  border-radius: 20px;
+  width: 320px;
+  font-size: 2rem;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+}
+
+#judgeimage {
+  width: 300px;
+  height: 350px;
+}
+
+#judgepara {
+  display: inline-block;
+  background-color: brown;
+  font-size: 2rem;
+  font-family: serif;
+  text-align: justify;
+  overflow: auto;
+  width: 600px;
+  height: 315px;
+}
+#family {
+  background-color: bisque;
+  color: black;
+  border-radius: 20px;
+  width: 320px;
+  font-size: 2rem;
+  text-align: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#familyimage {
+  width: 300px;
+  height: 300px;
+}
+
+#familypara {
+  display: inline-block;
+  background-color: goldenrod;
+  font-size: 1rem;
+  font-family: sans-serif;
+  text-align: justify;
+  overflow: auto;
+  width: 600px;
+  height: 285px;
+}
+
+#fragile {
+  background-color: bisque;
+  color: black;
+  border-radius: 20px;
+  width: 320px;
+  font-size: 2rem;
+  text-align: center;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+#fragileimage {
+  width: 300px;
+  height: 300px;
+}
+
+#fragilepara {
+  display: inline-block;
+  background-color: palevioletred;
+  font-size: 1.5rem;
+  font-family: cursive;
+  text-align: justify;
+  overflow: auto;
+  width: 600px;
+  height: 275px;
+}
+
+#love {
+  background-color: bisque;
+  color: black;
+  border-radius: 20px;
+  width: 320px;
+  font-size: 2rem;
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+}
+
+#loveimage {
+  width: 300px;
+  height: 300px;
+}
+
+#lovepara {
+  display: inline-block;
+  background-color: orangered;
+  font-size: 2.5rem;
+  font-family: fantasy;
+  text-align: justify;
+  overflow: hidden;
+  width: 600px;
+  height: 260px;
+}
+
+#dear {
+  background-color: bisque;
+  color: black;
+  border-radius: 20px;
+  width: 320px;
+  font-size: 2rem;
+  text-align: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+#dearimage {
+  width: 300px;
+  height: 300px;
+}
+
+#dearpara {
+  display: inline-block;
+  background-color: palegreen;
+  font-size: 2rem;
+  font-family: monospace;
+  text-align: justify;
+  overflow: auto;
+  width: 600px;
+  height: 265px;
+}
+
+#dramas {
+  background-color: lightcyan;
+}
